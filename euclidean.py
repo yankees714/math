@@ -8,11 +8,3 @@ def gcd(a,b):
         return gcd(b,a%b)
 
 print gcd(int(sys.argv[1]),int(sys.argv[2]))
-
-
-
-
-
-
-
-
